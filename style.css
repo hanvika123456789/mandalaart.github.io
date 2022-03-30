@@ -23,7 +23,7 @@ html{
     margin: 20px 0px;
 }
 .navbar ul li {
-    font-family: century;
+    font-family: cursive;
     font-size: 1.1rem;
     font-weight: bold;
 }
@@ -73,7 +73,7 @@ html{
 
 
 .headings{
-    font-family: century;
+    font-family: cursive;
     font-size: 3rem;
     text-align: center;
     margin: 40px 0px;
@@ -106,7 +106,7 @@ html{
     
 }
 .intro h2{
-    font-size: 2rem;
+    font-size: 3rem;
     margin-bottom: 20px;
     
 }
